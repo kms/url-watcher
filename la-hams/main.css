@@ -1,0 +1,111 @@
+body {
+    background: #eeeeee;
+    width: 75%;
+}
+
+p {
+    text-align: justify;
+}
+
+.break {
+    clear: both;
+}
+
+.bigHeader {
+    text-align: center;
+    margin-bottom: 0.25em;
+}
+
+.xml {
+    text-align: center;
+    padding-bottom: 0.25em;
+}
+
+.topLinks {
+    text-align: center;
+    padding-bottom: 0.25em;
+}
+
+.xml img {
+    border: none;
+}
+
+.updated {
+    font-size: 0.75em;
+    font-style: italic;
+    text-align: center;
+    padding-bottom: 0.25em;
+}
+
+.about {
+    font-size: 1.0em;
+    font-style: italic;
+    margin: auto;
+    margin-top: 0.25em;
+    margin-bottom: 0.5em;
+    width: 75%;
+    background: #cccccc;
+    border-left: 1px solid #888888;
+    border-top: 1px solid #888888;
+    border-bottom: 3px solid #444444;
+    border-right: 3px solid #444444;
+    padding: 0.25em;
+    text-align: justify;
+}
+
+.legend {
+    text-align: center;
+    font-style: italic;
+}
+
+.legendElement {
+    padding: 0.25em;
+}
+
+.list {
+    background: #ffffff;
+    border-left: 1px solid #888888;
+    border-top: 1px solid #888888;
+    border-bottom: 3px solid #444444;
+    border-right: 3px solid #444444;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+.listLine {
+    clear: both;
+}
+
+.date-category {
+    font-size: 1.25em;
+    font-style: italic;
+    border-bottom: 1px solid #666666;
+    padding-top: 0.5em;
+    margin-bottom: 0.25em;
+    clear: both;
+}
+
+.time {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    float: left;
+}
+
+.categoryIcon {
+    float: left;
+    text-align: right;
+    width: 35px;
+    vertical-align: top;
+    padding-right: 0.5em;
+}
+
+.link {
+    padding-left: 0.5em;
+    float: left;
+}
+
+.timestamp {
+    font-style: italic;
+    padding-left: 0.5em;
+}

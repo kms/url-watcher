@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<url-watcher>
+
+    <generated tal:content="generated" 
+        tal:attributes="no-cache noCache; runtime runtime" />
+	    
+    <pages>
+	<page tal:repeat="page pages">
+	    <title tal:content="page/title" />
+	    <category tal:content="page/category" />
+	    <watchURL tal:content="page/watchURL" />
+	    <linkURL tal:content="page/linkURL" />
+	    <tresholdRatio tal:content="page/tresholdRatio" />
+	    <cacheFilename tal:content="page/cacheFilename" />
+	    <proxyStatus tal:content="page/proxyStatus" />
+	    <lastModified tal:attributes="fromHeader page/lastModifiedFromHeader">
+		<iso-8601 tal:content="page/lastModified" />
+		<date tal:content="page/lastModifiedDate" />
+		<time tal:content="page/lastModifiedTime" />
+		<unix tal:content="page/lastModifiedUnix" />
+	    </lastModified>
+	</page>
+    </pages>
+
+</url-watcher>
