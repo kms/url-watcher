@@ -1,5 +1,10 @@
 #!/usr/bin/python
 # -*- coding: iso-8859-1 -*-
+# url-watcher
+# Monitor webpages for changes.
+#
+# (c) Karl-Martin Skontorp <kms@skontorp.net> ~ http://picofarad.org/
+# Licensed under the GNU GPL 2.0 or later.
 
 from simpletal import simpleTAL, simpleTALES
 import urllib2
