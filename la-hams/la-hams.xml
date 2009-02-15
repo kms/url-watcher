@@ -2,961 +2,961 @@
 <url-watcher>
 
     <generated no-cache="true" runtime="787">2004-04-25T00:13:09.414004</generated>
-	    
+            
     <pages>
-	<page>
-	    <title>LAØBY</title>
-	    <category>Personal</category>
-	    <watchURL>http://www.qsl.net/la0by/</watchURL>
-	    <linkURL>http://www.qsl.net/la0by/</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>140fb2ec8f8f58db833298834d65fb43</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-01-23T21:15:51+00:00</iso-8601>
-		<date>Friday 23. January, 2004</date>
-		<time>21:15</time>
-		<unix>1074892551</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA2T Trondheimsgruppen</title>
-	    <category>Group</category>
-	    <watchURL>http://www.la2t.org/</watchURL>
-	    <linkURL>http://www.la2t.org/</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>49771a72f9c4c275e2a34c252b216f0f</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="false">
-		<iso-8601>2004-04-20T15:00:02+00:00</iso-8601>
-		<date>Tuesday 20. April, 2004</date>
-		<time>15:00</time>
-		<unix>1082473202</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA7G Gudbrandsdalgsgruppen</title>
-	    <category>Group</category>
-	    <watchURL>http://www.hamradio.no/la7g/</watchURL>
-	    <linkURL>http://www.hamradio.no/la7g/start00.htm</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>7206aba93cbd79d84e09ba81ab31c8eb</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-02-16T19:57:43+00:00</iso-8601>
-		<date>Monday 16. February, 2004</date>
-		<time>19:57</time>
-		<unix>1076961463</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA2D Drammensgruppen</title>
-	    <category>Group</category>
-	    <watchURL>http://www.la2d.com/</watchURL>
-	    <linkURL>http://www.la2d.com/</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>b40b2f857dfde772f7772afcb8d236d8</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-04-22T19:30:55+00:00</iso-8601>
-		<date>Thursday 22. April, 2004</date>
-		<time>19:30</time>
-		<unix>1082662255</unix>
-	    </lastModified>
-	</page><page>
-	    <title>JX7SIX</title>
-	    <category>Misc</category>
-	    <watchURL>http://www.qsl.net/la7dfa/jx7six.htm</watchURL>
-	    <linkURL>http://www.qsl.net/la7dfa/jx7six.htm</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>c131e7e3f52431e4ecbcd705694128eb</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-04-20T17:04:29+00:00</iso-8601>
-		<date>Tuesday 20. April, 2004</date>
-		<time>17:04</time>
-		<unix>1082480669</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA2K Kirkenesgruppen</title>
-	    <category>Group</category>
-	    <watchURL>http://www.arcticnet.no/la5xx/la2k.htm</watchURL>
-	    <linkURL>http://www.arcticnet.no/la5xx/la2k.htm</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>c09c89a0e663e5cf5f1a511a2ec1bd2b</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-04-24T13:32:12+00:00</iso-8601>
-		<date>Saturday 24. April, 2004</date>
-		<time>13:32</time>
-		<unix>1082813532</unix>
-	    </lastModified>
-	</page><page>
-	    <title>Norwegain Repeaters, 2m</title>
-	    <category>Misc</category>
-	    <watchURL>http://www.nrrl.no/4_fakta/rep_la144.htm</watchURL>
-	    <linkURL>http://www.nrrl.no/4_fakta/rep_la144.htm</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>f2befac7ece0bf62b3aaa670c17df829</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2003-09-08T10:02:10+00:00</iso-8601>
-		<date>Monday 08. September, 2003</date>
-		<time>10:02</time>
-		<unix>1063015330</unix>
-	    </lastModified>
-	</page><page>
-	    <title>Norwegian Repeaters, 6m</title>
-	    <category>Misc</category>
-	    <watchURL>http://www.nrrl.no/4_fakta/rep_la50.htm</watchURL>
-	    <linkURL>http://www.nrrl.no/4_fakta/rep_la50.htm</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>fa22255d6fba6f9f4327aa889666dab0</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2002-11-25T11:31:10+00:00</iso-8601>
-		<date>Monday 25. November, 2002</date>
-		<time>11:31</time>
-		<unix>1038223870</unix>
-	    </lastModified>
-	</page><page>
-	    <title>Norwegian Repeaters, 70cm</title>
-	    <category>Misc</category>
-	    <watchURL>http://www.nrrl.no/4_fakta/rep_la432.htm</watchURL>
-	    <linkURL>http://www.nrrl.no/4_fakta/rep_la432.htm</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>35eb53cb28976de7fbc885e28cea14da</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2002-11-26T09:54:14+00:00</iso-8601>
-		<date>Tuesday 26. November, 2002</date>
-		<time>09:54</time>
-		<unix>1038304454</unix>
-	    </lastModified>
-	</page><page>
-	    <title>Norwegian Repeaters, links</title>
-	    <category>Misc</category>
-	    <watchURL>http://www.nrrl.no/4_fakta/rep_lafmlinks.htm</watchURL>
-	    <linkURL>http://www.nrrl.no/4_fakta/rep_lafmlinks.htm</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>bca42a95c8329cf956a13eca0f4854d2</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2003-09-08T10:02:05+00:00</iso-8601>
-		<date>Monday 08. September, 2003</date>
-		<time>10:02</time>
-		<unix>1063015325</unix>
-	    </lastModified>
-	</page><page>
-	    <title>Samband Mjøsa</title>
-	    <category>Misc</category>
-	    <watchURL>http://www.qsl.net/la3r/sm/sm.html</watchURL>
-	    <linkURL>http://www.qsl.net/la3r/sm/sm.html</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>f4e31533471b6986b693222f445ac268</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-04-15T06:07:40+00:00</iso-8601>
-		<date>Thursday 15. April, 2004</date>
-		<time>06:07</time>
-		<unix>1082009260</unix>
-	    </lastModified>
-	</page><page>
-	    <title>List of Norwegian hams</title>
-	    <category>Misc</category>
-	    <watchURL>http://www.npt.no/pt_internet/ressursforvaltning/frekvenser/radioamatoer/radioamatoerer.html</watchURL>
-	    <linkURL>http://www.npt.no/pt_internet/ressursforvaltning/frekvenser/radioamatoer/radioamatoerer.html</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>9ebba712048c996fec39298206b76f04</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-02-24T08:03:35+00:00</iso-8601>
-		<date>Tuesday 24. February, 2004</date>
-		<time>08:03</time>
-		<unix>1077609815</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA1G Grenlandgruppen</title>
-	    <category>Group</category>
-	    <watchURL>http://www.qsl.net/la1g/main.htm</watchURL>
-	    <linkURL>http://www.qsl.net/la1g/main.htm</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>56e8bb8f89d52b57764fa833e5475019</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-04-24T14:05:06+00:00</iso-8601>
-		<date>Saturday 24. April, 2004</date>
-		<time>14:05</time>
-		<unix>1082815506</unix>
-	    </lastModified>
-	</page><page>
-	    <title>NRRL Nyheter</title>
-	    <category>News</category>
-	    <watchURL>http://www.nrrl.no/start/start00.htm</watchURL>
-	    <linkURL>http://www.nrrl.no/</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>cf1740d885b94cfc6adc635d09ec1d83</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-04-23T08:13:47+00:00</iso-8601>
-		<date>Friday 23. April, 2004</date>
-		<time>08:13</time>
-		<unix>1082708027</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA6LI Listagruppen</title>
-	    <category>Group</category>
-	    <watchURL>http://www.qsl.net/la6li/main.htm</watchURL>
-	    <linkURL>http://www.qsl.net/la6li/</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>e7fd65d710f63b9c3f8efb4b338a0ff3</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-04-05T19:54:03+00:00</iso-8601>
-		<date>Monday 05. April, 2004</date>
-		<time>19:54</time>
-		<unix>1081194843</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA8OKA</title>
-	    <category>Personal</category>
-	    <watchURL>http://www.arcticpeak.com/index.htm</watchURL>
-	    <linkURL>http://www.arcticpeak.com/index.htm</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>9e76079fcfcb3bad3b64813a41824dd3</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-04-24T10:49:09+00:00</iso-8601>
-		<date>Saturday 24. April, 2004</date>
-		<time>10:49</time>
-		<unix>1082803749</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA8OKA (Radio)</title>
-	    <category>Personal</category>
-	    <watchURL>http://www.arcticpeak.com/radio.htm</watchURL>
-	    <linkURL>http://www.arcticpeak.com/radio.htm</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>f0260b5aaf56ae58da4f864efd30c3b5</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-04-04T16:26:41+00:00</iso-8601>
-		<date>Sunday 04. April, 2004</date>
-		<time>16:26</time>
-		<unix>1081096001</unix>
-	    </lastModified>
-	</page><page>
-	    <title>APRS Norge</title>
-	    <category>Misc</category>
-	    <watchURL>http://aprs.dahltech.no/</watchURL>
-	    <linkURL>http://aprs.dahltech.no/</linkURL>
-	    <tresholdRatio>0.999</tresholdRatio>
-	    <cacheFilename>1ca3a8f368196d73ca1e2a6350a8510b</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="false">
-		<iso-8601>2004-04-22T21:00:14+00:00</iso-8601>
-		<date>Thursday 22. April, 2004</date>
-		<time>21:00</time>
-		<unix>1082667614</unix>
-	    </lastModified>
-	</page><page>
-	    <title>Permo</title>
-	    <category>Commercial</category>
-	    <watchURL>http://www.permo.no/main.htm</watchURL>
-	    <linkURL>http://www.permo.no/main.htm</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>e2a4f958bd476e89c90c3cba0070e12c</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-04-21T14:01:15+00:00</iso-8601>
-		<date>Wednesday 21. April, 2004</date>
-		<time>14:01</time>
-		<unix>1082556075</unix>
-	    </lastModified>
-	</page><page>
-	    <title>Permo (Auksjon)</title>
-	    <category>Commercial</category>
-	    <watchURL>http://www.permo.no/Auksjon.htm</watchURL>
-	    <linkURL>http://www.permo.no/Auksjon.htm</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>78a7ff82354acbdd5fb012cb08ac7104</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-04-22T07:23:54+00:00</iso-8601>
-		<date>Thursday 22. April, 2004</date>
-		<time>07:23</time>
-		<unix>1082618634</unix>
-	    </lastModified>
-	</page><page>
-	    <title>Permo (Nyheter)</title>
-	    <category>Commercial</category>
-	    <watchURL>http://www.permo.no/A/Nyheter.htm</watchURL>
-	    <linkURL>http://www.permo.no/A/Nyheter.htm</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>41a3287dfc9d175c02c3963e22cd3521</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-03-18T14:17:23+00:00</iso-8601>
-		<date>Thursday 18. March, 2004</date>
-		<time>14:17</time>
-		<unix>1079619443</unix>
-	    </lastModified>
-	</page><page>
-	    <title>AMSAT</title>
-	    <category>News</category>
-	    <watchURL>http://www.amsat.org/</watchURL>
-	    <linkURL>http://www.amsat.org/</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>be6162deffac86812a92f77b1a1226b8</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-03-24T05:24:51+00:00</iso-8601>
-		<date>Wednesday 24. March, 2004</date>
-		<time>05:24</time>
-		<unix>1080105891</unix>
-	    </lastModified>
-	</page><page>
-	    <title>AMSAT What's New</title>
-	    <category>News</category>
-	    <watchURL>http://www.amsat.org/amsat/whatsnew.html</watchURL>
-	    <linkURL>http://www.amsat.org/amsat/whatsnew.html</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>9f54a444ea857bb9ad85b476f6931d99</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-04-05T00:27:03+00:00</iso-8601>
-		<date>Monday 05. April, 2004</date>
-		<time>00:27</time>
-		<unix>1081124823</unix>
-	    </lastModified>
-	</page><page>
-	    <title>AMSAT WSR</title>
-	    <category>News</category>
-	    <watchURL>http://www.amsat.org/amsat/news/wsr.html</watchURL>
-	    <linkURL>http://www.amsat.org/amsat/news/wsr.html</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>81de937de42ec03ca89cb57a73d058c3</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-04-14T15:07:06+00:00</iso-8601>
-		<date>Wednesday 14. April, 2004</date>
-		<time>15:07</time>
-		<unix>1081955226</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA8IMA</title>
-	    <category>Personal</category>
-	    <watchURL>http://www.rolvs.org/index2.php</watchURL>
-	    <linkURL>http://www.rolvs.org/index2.php</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>c2d52fffbb66ffca77c0702238a0f805</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="false">
-		<iso-8601>2004-04-09T13:00:17+00:00</iso-8601>
-		<date>Friday 09. April, 2004</date>
-		<time>13:00</time>
-		<unix>1081515617</unix>
-	    </lastModified>
-	</page><page>
-	    <title>3B9C Rodrigues Island</title>
-	    <category>DX/Contest</category>
-	    <watchURL>http://www.fsdxa.com/3b9c/</watchURL>
-	    <linkURL>http://www.fsdxa.com/3b9c/</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>779326e3b28f25f11aecaa3f3d126496</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="false">
-		<iso-8601>2004-04-16T21:00:21+00:00</iso-8601>
-		<date>Friday 16. April, 2004</date>
-		<time>21:00</time>
-		<unix>1082149221</unix>
-	    </lastModified>
-	</page><page>
-	    <title>T33C Banaba</title>
-	    <category>DX/Contest</category>
-	    <watchURL>http://www.dx-pedition.de/banaba2004/home.htm</watchURL>
-	    <linkURL>http://www.dx-pedition.de/banaba2004/</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>700c366e424ecdb3d8d795b9651fe295</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-04-02T07:24:19+00:00</iso-8601>
-		<date>Friday 02. April, 2004</date>
-		<time>07:24</time>
-		<unix>1080890659</unix>
-	    </lastModified>
-	</page><page>
-	    <title>AMSAT OSCAR E</title>
-	    <category>News</category>
-	    <watchURL>http://www.amsat.org/amsat/sats/echo/index.html</watchURL>
-	    <linkURL>http://www.amsat.org/amsat/sats/echo/index.html</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>5df732c92b4a170a987563bd771c9694</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-04-05T00:21:55+00:00</iso-8601>
-		<date>Monday 05. April, 2004</date>
-		<time>00:21</time>
-		<unix>1081124515</unix>
-	    </lastModified>
-	</page><page>
-	    <title>findU News</title>
-	    <category>News</category>
-	    <watchURL>http://www.findu.com/new.html</watchURL>
-	    <linkURL>http://www.findu.com/new.html</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>434b0a9940ccd68ba7b0b8044fb644e2</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-02-14T20:29:18+00:00</iso-8601>
-		<date>Saturday 14. February, 2004</date>
-		<time>20:29</time>
-		<unix>1076790558</unix>
-	    </lastModified>
-	</page><page>
-	    <title>Solar Terrestrial Activity Report</title>
-	    <category>Misc</category>
-	    <watchURL>http://www.dxlc.com/solar/</watchURL>
-	    <linkURL>http://www.dxlc.com/solar/</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>ef23a86938a7833fbf05fb6cd0c0ea7e</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-04-24T03:38:34+00:00</iso-8601>
-		<date>Saturday 24. April, 2004</date>
-		<time>03:38</time>
-		<unix>1082777914</unix>
-	    </lastModified>
-	</page><page>
-	    <title>W1AW Propagation Bulletins</title>
-	    <category>Misc</category>
-	    <watchURL>http://www.arrl.org/w1aw/prop/</watchURL>
-	    <linkURL>http://www.arrl.org/w1aw/prop/</linkURL>
-	    <tresholdRatio>0.99</tresholdRatio>
-	    <cacheFilename>f6632a4f00b21af7aeb33d32f97f3e94</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="false">
-		<iso-8601>2004-04-24T00:00:41+00:00</iso-8601>
-		<date>Saturday 24. April, 2004</date>
-		<time>00:00</time>
-		<unix>1082764841</unix>
-	    </lastModified>
-	</page><page>
-	    <title>Contests this week</title>
-	    <category>DX/Contest</category>
-	    <watchURL>http://www.hornucopia.com/contestcal/weeklycont.php</watchURL>
-	    <linkURL>http://www.hornucopia.com/contestcal/weeklycont.php</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>85ef1d29d395483d8968f5bf1e15fbb2</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="false">
-		<iso-8601>2004-04-21T15:00:25+00:00</iso-8601>
-		<date>Wednesday 21. April, 2004</date>
-		<time>15:00</time>
-		<unix>1082559625</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA9PMA</title>
-	    <category>Personal</category>
-	    <watchURL>http://la9pma.org/</watchURL>
-	    <linkURL>http://la9pma.org/</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>cc4094242bf06597aa85383ef9027429</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-04-10T00:59:23+00:00</iso-8601>
-		<date>Saturday 10. April, 2004</date>
-		<time>00:59</time>
-		<unix>1081558763</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA5UNA</title>
-	    <category>Personal</category>
-	    <watchURL>http://www.qsl.net/la5una/hei_og_velkommen_til_min_hjemmes.htm</watchURL>
-	    <linkURL>http://www.qsl.net/la5una/</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>2b54699ef562f329a9c79b0f5b79cb5b</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-04-08T14:43:00+00:00</iso-8601>
-		<date>Thursday 08. April, 2004</date>
-		<time>14:43</time>
-		<unix>1081435380</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA3YNA</title>
-	    <category>Personal</category>
-	    <watchURL>http://home.online.no/~arvjakob/index2.htm</watchURL>
-	    <linkURL>http://www.la3yna.tk/</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>4a0579ef650c918a1542a79c925f645d</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-03-24T17:05:00+00:00</iso-8601>
-		<date>Wednesday 24. March, 2004</date>
-		<time>17:05</time>
-		<unix>1080147900</unix>
-	    </lastModified>
-	</page><page>
-	    <title>Norwegian Beacon List</title>
-	    <category>Misc</category>
-	    <watchURL>http://www.qsl.net/la0by/LA-beac.htm</watchURL>
-	    <linkURL>http://www.qsl.net/la0by/LA-beac.htm</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>cc81f3d8f426d504aba7535254ca072f</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-04-12T23:09:20+00:00</iso-8601>
-		<date>Monday 12. April, 2004</date>
-		<time>23:09</time>
-		<unix>1081811360</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA3T Tromsøgruppen</title>
-	    <category>Group</category>
-	    <watchURL>http://www.hamradio.no/la3t/hovedside.htm</watchURL>
-	    <linkURL>http://www.hamradio.no/la3t/</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>48b8ef93ebec559c29f569c86d13e7e7</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-04-02T17:26:07+00:00</iso-8601>
-		<date>Friday 02. April, 2004</date>
-		<time>17:26</time>
-		<unix>1080926767</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA4O Oslogruppen</title>
-	    <category>Group</category>
-	    <watchURL>http://www.qsl.net/la4o/</watchURL>
-	    <linkURL>http://www.qsl.net/la4o/</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>b14b8fbd30000598c53e04beefe9bb92</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-04-21T21:38:05+00:00</iso-8601>
-		<date>Wednesday 21. April, 2004</date>
-		<time>21:38</time>
-		<unix>1082583485</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA3F Follogruppen</title>
-	    <category>Group</category>
-	    <watchURL>http://www.la3f.no/main.htm</watchURL>
-	    <linkURL>http://www.la3f.no/</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>e1e1b77c7b6f98715333cc4c913afd4f</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-02-22T13:06:56+00:00</iso-8601>
-		<date>Sunday 22. February, 2004</date>
-		<time>13:06</time>
-		<unix>1077455216</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA5NCA</title>
-	    <category>Personal</category>
-	    <watchURL>http://www.laud.no/la6nca/</watchURL>
-	    <linkURL>http://www.laud.no/la6nca/</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>32c38e72137d0a88e894cbd4778993c2</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-02-09T20:47:26+00:00</iso-8601>
-		<date>Monday 09. February, 2004</date>
-		<time>20:47</time>
-		<unix>1076359646</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA9UX</title>
-	    <category>Personal</category>
-	    <watchURL>http://www.qsl.net/la9ux/</watchURL>
-	    <linkURL>http://www.qsl.net/la9ux/</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>f66adbbc0cb4fbc6e68618f6d2fd7a02</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2002-06-07T10:28:30+00:00</iso-8601>
-		<date>Friday 07. June, 2002</date>
-		<time>10:28</time>
-		<unix>1023445710</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LAØFX</title>
-	    <category>Personal</category>
-	    <watchURL>http://www.qsl.net/la0fx/</watchURL>
-	    <linkURL>http://www.qsl.net/la0fx/</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>6f12d47ba8f31dfdb05aa8af76c841aa</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-04-09T12:19:08+00:00</iso-8601>
-		<date>Friday 09. April, 2004</date>
-		<time>12:19</time>
-		<unix>1081513148</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LAØFA</title>
-	    <category>Personal</category>
-	    <watchURL>http://www.qsl.net/la0fa/index.html</watchURL>
-	    <linkURL>http://www.qsl.net/la0fa/index.html</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>260fca707d509285f9e383d42ec41fca</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2002-01-01T21:42:49+00:00</iso-8601>
-		<date>Tuesday 01. January, 2002</date>
-		<time>21:42</time>
-		<unix>1009921369</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LAØFD</title>
-	    <category>Personal</category>
-	    <watchURL>http://www.qsl.net/la0fd/index.html</watchURL>
-	    <linkURL>http://www.qsl.net/la0fd/index.html</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>32cc434ee0680f45516cf6dcb16c13c1</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2002-10-15T08:37:43+00:00</iso-8601>
-		<date>Tuesday 15. October, 2002</date>
-		<time>08:37</time>
-		<unix>1034671063</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LAØHV</title>
-	    <category>Personal</category>
-	    <watchURL>http://www.qsl.net/la0hv/index.html</watchURL>
-	    <linkURL>http://www.qsl.net/la0hv/index.html</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>1d9df6e2246606053684486fd19f4945</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-03-06T16:32:14+00:00</iso-8601>
-		<date>Saturday 06. March, 2004</date>
-		<time>16:32</time>
-		<unix>1078590734</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA1AEA</title>
-	    <category>Personal</category>
-	    <watchURL>http://www.qsl.net/la1aea/index.html</watchURL>
-	    <linkURL>http://www.qsl.net/la1aea/index.html</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>67c0423ea99b24da1819ebbc227fddd8</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2001-11-18T20:32:40+00:00</iso-8601>
-		<date>Sunday 18. November, 2001</date>
-		<time>20:32</time>
-		<unix>1006115560</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA ARDF</title>
-	    <category>Group</category>
-	    <watchURL>http://www.ardf.no/</watchURL>
-	    <linkURL>http://www.ardf.no/</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>db1260c0c1935ef7d308bb0b02d2c5dc</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-04-21T22:16:46+00:00</iso-8601>
-		<date>Wednesday 21. April, 2004</date>
-		<time>22:16</time>
-		<unix>1082585806</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA1CNA</title>
-	    <category>Personal</category>
-	    <watchURL>http://www.qsl.net/la1cna/index.html</watchURL>
-	    <linkURL>http://www.qsl.net/la1cna/index.html</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>964839b739bde940c673df2f3dd4e981</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2003-12-27T17:54:48+00:00</iso-8601>
-		<date>Saturday 27. December, 2003</date>
-		<time>17:54</time>
-		<unix>1072547688</unix>
-	    </lastModified>
-	</page><page>
-	    <title>PACKET-radio nettet i Nord-Norge</title>
-	    <category>Misc</category>
-	    <watchURL>http://www.qsl.net/la1h/nodenett/hoyre.htm</watchURL>
-	    <linkURL>http://www.qsl.net/la1h/nodenett/index.htm</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>3297d317e448a08c45d814eb158b9894</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-01-10T16:28:45+00:00</iso-8601>
-		<date>Saturday 10. January, 2004</date>
-		<time>16:28</time>
-		<unix>1073752125</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA1JAM</title>
-	    <category>Group</category>
-	    <watchURL>http://www.qsl.net/la1jam/index.htm</watchURL>
-	    <linkURL>http://www.qsl.net/la1jam/index.htm</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>9b8e27f617e81c2d9280461a0e427320</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2003-10-16T15:13:50+00:00</iso-8601>
-		<date>Thursday 16. October, 2003</date>
-		<time>15:13</time>
-		<unix>1066317230</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA1KHA</title>
-	    <category>Personal</category>
-	    <watchURL>http://www.qsl.net/la1kha/index.html</watchURL>
-	    <linkURL>http://www.qsl.net/la1kha/index.html</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>ea60154fab21a4938eab86544ded9d2c</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-01-17T18:52:07+00:00</iso-8601>
-		<date>Saturday 17. January, 2004</date>
-		<time>18:52</time>
-		<unix>1074365527</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA1KKA</title>
-	    <category>Personal</category>
-	    <watchURL>http://www.qsl.net/la1kka/index.html</watchURL>
-	    <linkURL>http://www.qsl.net/la1kka/index.html</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>ef4ae2fb5d76c0815ab02bfe9f6a43c1</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2002-03-14T17:05:44+00:00</iso-8601>
-		<date>Thursday 14. March, 2002</date>
-		<time>17:05</time>
-		<unix>1016125544</unix>
-	    </lastModified>
-	</page><page>
-	    <title>VHF aktivitets-tester (NRAU NAC)</title>
-	    <category>DX/Contest</category>
-	    <watchURL>http://www.qsl.net/la1kka/vhf/index.html</watchURL>
-	    <linkURL>http://www.qsl.net/la1kka/vhf/index.html</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>5f44262a30dd4644623754a539542109</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-03-03T04:21:25+00:00</iso-8601>
-		<date>Wednesday 03. March, 2004</date>
-		<time>04:21</time>
-		<unix>1078287685</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA1KP</title>
-	    <category>Personal</category>
-	    <watchURL>http://www.qsl.net/la1kp/index.html</watchURL>
-	    <linkURL>http://www.qsl.net/la1kp/index.html</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>13e414a785fed11bbacd5ba795140bc4</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2002-04-27T19:09:39+00:00</iso-8601>
-		<date>Saturday 27. April, 2002</date>
-		<time>19:09</time>
-		<unix>1019934579</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA8D Sandnes og Jærengruppen</title>
-	    <category>Group</category>
-	    <watchURL>http://www.lug.no/la8d/main.php?LA8D=1</watchURL>
-	    <linkURL>http://www.lug.no/la8d/</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>1bfe772a0d905c3324994aa08b4beeba</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-04-13T14:35:40+00:00</iso-8601>
-		<date>Tuesday 13. April, 2004</date>
-		<time>14:35</time>
-		<unix>1081866940</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA3ZA</title>
-	    <category>Personal</category>
-	    <watchURL>http://www.qsl.net/la3za/hoved.html</watchURL>
-	    <linkURL>http://www.qsl.net/la3za/</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>b10251d1020bf311143a319e669e64d7</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-01-21T18:28:06+00:00</iso-8601>
-		<date>Wednesday 21. January, 2004</date>
-		<time>18:28</time>
-		<unix>1074709686</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA1NRK</title>
-	    <category>Group</category>
-	    <watchURL>http://home.eunet.no/~aosteren/index0.htm</watchURL>
-	    <linkURL>http://home.eunet.no/~aosteren/index0.htm</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>0cab61b9456a8d47643394bc09484b9a</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-02-16T10:20:32+00:00</iso-8601>
-		<date>Monday 16. February, 2004</date>
-		<time>10:20</time>
-		<unix>1076926832</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA1NSF</title>
-	    <category>Group</category>
-	    <watchURL>http://www.qsl.net/la1nsf/index.htm</watchURL>
-	    <linkURL>http://www.qsl.net/la1nsf/index.htm</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>f4b1afb4ae726fd5f259a4d9f49eda1c</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2000-04-27T07:40:01+00:00</iso-8601>
-		<date>Thursday 27. April, 2000</date>
-		<time>07:40</time>
-		<unix>956821201</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA1PHA</title>
-	    <category>Personal</category>
-	    <watchURL>http://www.qsl.net/la1pha/index.htm</watchURL>
-	    <linkURL>http://www.qsl.net/la1pha/index.htm</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>13d1964105e857150b98fe83f8adea85</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2000-08-31T21:40:44+00:00</iso-8601>
-		<date>Thursday 31. August, 2000</date>
-		<time>21:40</time>
-		<unix>967758044</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA1PNA</title>
-	    <category>Personal</category>
-	    <watchURL>http://www.qsl.net/la1pna/index.htm</watchURL>
-	    <linkURL>http://www.qsl.net/la1pna/index.htm</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>fa38c4838429fa1e49804ecb4b293da0</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-02-24T21:38:51+00:00</iso-8601>
-		<date>Tuesday 24. February, 2004</date>
-		<time>21:38</time>
-		<unix>1077658731</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA1SNA</title>
-	    <category>Personal</category>
-	    <watchURL>http://www.qsl.net/la1sna/right.html</watchURL>
-	    <linkURL>http://www.qsl.net/la1sna/index.html</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>f58675e32150fe2873b19c3a514e10ee</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-01-13T16:23:21+00:00</iso-8601>
-		<date>Tuesday 13. January, 2004</date>
-		<time>16:23</time>
-		<unix>1074011001</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA1SS Nettverk for radiospeidere</title>
-	    <category>Group</category>
-	    <watchURL>http://www.qsl.net/la1ss/index.html</watchURL>
-	    <linkURL>http://www.qsl.net/la1ss/index.html</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>19345a6ef201d377c0ec93d5307e3bea</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-02-07T11:32:12+00:00</iso-8601>
-		<date>Saturday 07. February, 2004</date>
-		<time>11:32</time>
-		<unix>1076153532</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA1TUR Radioklubben ut på tur</title>
-	    <category>Group</category>
-	    <watchURL>http://www.qsl.net/la1tur/index.html</watchURL>
-	    <linkURL>http://www.qsl.net/la1tur/hoved.html</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>5a48f9b7c232badf9015310403fa81f6</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2002-10-04T16:44:13+00:00</iso-8601>
-		<date>Friday 04. October, 2002</date>
-		<time>16:44</time>
-		<unix>1033749853</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA1UW</title>
-	    <category>Personal</category>
-	    <watchURL>http://www.qsl.net/la1uw/index.html</watchURL>
-	    <linkURL>http://www.qsl.net/la1uw/index.html</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>15fe3fe4c6030507f12739eba8908813</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2000-05-07T16:12:43+00:00</iso-8601>
-		<date>Sunday 07. May, 2000</date>
-		<time>16:12</time>
-		<unix>957715963</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA1VNA</title>
-	    <category>Personal</category>
-	    <watchURL>http://www.qsl.net/la1vna/index.htm</watchURL>
-	    <linkURL>http://www.qsl.net/la1vna/index.htm</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>de82c37c0dc90cce8e77afa89b04728a</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-03-06T22:31:44+00:00</iso-8601>
-		<date>Saturday 06. March, 2004</date>
-		<time>22:31</time>
-		<unix>1078612304</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA1ONA</title>
-	    <category>Personal</category>
-	    <watchURL>http://www.qsl.net/la1ona/index.htm</watchURL>
-	    <linkURL>http://www.qsl.net/la1ona/index.htm</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>95dc7d2c91d0db3136923c34cf92ee65</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-01-12T00:20:57+00:00</iso-8601>
-		<date>Monday 12. January, 2004</date>
-		<time>00:20</time>
-		<unix>1073866857</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA3FY</title>
-	    <category>Personal</category>
-	    <watchURL>http://k-j.skontorp.net/</watchURL>
-	    <linkURL>http://k-j.skontorp.net/</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>921e1aa1638fcdcc6ffa95a55cd8f568</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2003-04-08T19:17:45+00:00</iso-8601>
-		<date>Tuesday 08. April, 2003</date>
-		<time>19:17</time>
-		<unix>1049829465</unix>
-	    </lastModified>
-	</page><page>
-	    <title>LA1B Bergensgruppen</title>
-	    <category>Group</category>
-	    <watchURL>http://www.qsl.net/la1b/frame1.htm</watchURL>
-	    <linkURL>http://www.qsl.net/la1b/index.htm</linkURL>
-	    <tresholdRatio>1.0</tresholdRatio>
-	    <cacheFilename>4d164fc95524b4b9304aa65f45117024</cacheFilename>
-	    <proxyStatus>MISS from home</proxyStatus>
-	    <lastModified fromHeader="true">
-		<iso-8601>2004-04-09T20:48:50+00:00</iso-8601>
-		<date>Friday 09. April, 2004</date>
-		<time>20:48</time>
-		<unix>1081543730</unix>
-	    </lastModified>
-	</page>
+        <page>
+            <title>LAØBY</title>
+            <category>Personal</category>
+            <watchURL>http://www.qsl.net/la0by/</watchURL>
+            <linkURL>http://www.qsl.net/la0by/</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>140fb2ec8f8f58db833298834d65fb43</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-01-23T21:15:51+00:00</iso-8601>
+                <date>Friday 23. January, 2004</date>
+                <time>21:15</time>
+                <unix>1074892551</unix>
+            </lastModified>
+        </page><page>
+            <title>LA2T Trondheimsgruppen</title>
+            <category>Group</category>
+            <watchURL>http://www.la2t.org/</watchURL>
+            <linkURL>http://www.la2t.org/</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>49771a72f9c4c275e2a34c252b216f0f</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="false">
+                <iso-8601>2004-04-20T15:00:02+00:00</iso-8601>
+                <date>Tuesday 20. April, 2004</date>
+                <time>15:00</time>
+                <unix>1082473202</unix>
+            </lastModified>
+        </page><page>
+            <title>LA7G Gudbrandsdalgsgruppen</title>
+            <category>Group</category>
+            <watchURL>http://www.hamradio.no/la7g/</watchURL>
+            <linkURL>http://www.hamradio.no/la7g/start00.htm</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>7206aba93cbd79d84e09ba81ab31c8eb</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-02-16T19:57:43+00:00</iso-8601>
+                <date>Monday 16. February, 2004</date>
+                <time>19:57</time>
+                <unix>1076961463</unix>
+            </lastModified>
+        </page><page>
+            <title>LA2D Drammensgruppen</title>
+            <category>Group</category>
+            <watchURL>http://www.la2d.com/</watchURL>
+            <linkURL>http://www.la2d.com/</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>b40b2f857dfde772f7772afcb8d236d8</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-04-22T19:30:55+00:00</iso-8601>
+                <date>Thursday 22. April, 2004</date>
+                <time>19:30</time>
+                <unix>1082662255</unix>
+            </lastModified>
+        </page><page>
+            <title>JX7SIX</title>
+            <category>Misc</category>
+            <watchURL>http://www.qsl.net/la7dfa/jx7six.htm</watchURL>
+            <linkURL>http://www.qsl.net/la7dfa/jx7six.htm</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>c131e7e3f52431e4ecbcd705694128eb</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-04-20T17:04:29+00:00</iso-8601>
+                <date>Tuesday 20. April, 2004</date>
+                <time>17:04</time>
+                <unix>1082480669</unix>
+            </lastModified>
+        </page><page>
+            <title>LA2K Kirkenesgruppen</title>
+            <category>Group</category>
+            <watchURL>http://www.arcticnet.no/la5xx/la2k.htm</watchURL>
+            <linkURL>http://www.arcticnet.no/la5xx/la2k.htm</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>c09c89a0e663e5cf5f1a511a2ec1bd2b</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-04-24T13:32:12+00:00</iso-8601>
+                <date>Saturday 24. April, 2004</date>
+                <time>13:32</time>
+                <unix>1082813532</unix>
+            </lastModified>
+        </page><page>
+            <title>Norwegain Repeaters, 2m</title>
+            <category>Misc</category>
+            <watchURL>http://www.nrrl.no/4_fakta/rep_la144.htm</watchURL>
+            <linkURL>http://www.nrrl.no/4_fakta/rep_la144.htm</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>f2befac7ece0bf62b3aaa670c17df829</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2003-09-08T10:02:10+00:00</iso-8601>
+                <date>Monday 08. September, 2003</date>
+                <time>10:02</time>
+                <unix>1063015330</unix>
+            </lastModified>
+        </page><page>
+            <title>Norwegian Repeaters, 6m</title>
+            <category>Misc</category>
+            <watchURL>http://www.nrrl.no/4_fakta/rep_la50.htm</watchURL>
+            <linkURL>http://www.nrrl.no/4_fakta/rep_la50.htm</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>fa22255d6fba6f9f4327aa889666dab0</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2002-11-25T11:31:10+00:00</iso-8601>
+                <date>Monday 25. November, 2002</date>
+                <time>11:31</time>
+                <unix>1038223870</unix>
+            </lastModified>
+        </page><page>
+            <title>Norwegian Repeaters, 70cm</title>
+            <category>Misc</category>
+            <watchURL>http://www.nrrl.no/4_fakta/rep_la432.htm</watchURL>
+            <linkURL>http://www.nrrl.no/4_fakta/rep_la432.htm</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>35eb53cb28976de7fbc885e28cea14da</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2002-11-26T09:54:14+00:00</iso-8601>
+                <date>Tuesday 26. November, 2002</date>
+                <time>09:54</time>
+                <unix>1038304454</unix>
+            </lastModified>
+        </page><page>
+            <title>Norwegian Repeaters, links</title>
+            <category>Misc</category>
+            <watchURL>http://www.nrrl.no/4_fakta/rep_lafmlinks.htm</watchURL>
+            <linkURL>http://www.nrrl.no/4_fakta/rep_lafmlinks.htm</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>bca42a95c8329cf956a13eca0f4854d2</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2003-09-08T10:02:05+00:00</iso-8601>
+                <date>Monday 08. September, 2003</date>
+                <time>10:02</time>
+                <unix>1063015325</unix>
+            </lastModified>
+        </page><page>
+            <title>Samband Mjøsa</title>
+            <category>Misc</category>
+            <watchURL>http://www.qsl.net/la3r/sm/sm.html</watchURL>
+            <linkURL>http://www.qsl.net/la3r/sm/sm.html</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>f4e31533471b6986b693222f445ac268</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-04-15T06:07:40+00:00</iso-8601>
+                <date>Thursday 15. April, 2004</date>
+                <time>06:07</time>
+                <unix>1082009260</unix>
+            </lastModified>
+        </page><page>
+            <title>List of Norwegian hams</title>
+            <category>Misc</category>
+            <watchURL>http://www.npt.no/pt_internet/ressursforvaltning/frekvenser/radioamatoer/radioamatoerer.html</watchURL>
+            <linkURL>http://www.npt.no/pt_internet/ressursforvaltning/frekvenser/radioamatoer/radioamatoerer.html</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>9ebba712048c996fec39298206b76f04</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-02-24T08:03:35+00:00</iso-8601>
+                <date>Tuesday 24. February, 2004</date>
+                <time>08:03</time>
+                <unix>1077609815</unix>
+            </lastModified>
+        </page><page>
+            <title>LA1G Grenlandgruppen</title>
+            <category>Group</category>
+            <watchURL>http://www.qsl.net/la1g/main.htm</watchURL>
+            <linkURL>http://www.qsl.net/la1g/main.htm</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>56e8bb8f89d52b57764fa833e5475019</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-04-24T14:05:06+00:00</iso-8601>
+                <date>Saturday 24. April, 2004</date>
+                <time>14:05</time>
+                <unix>1082815506</unix>
+            </lastModified>
+        </page><page>
+            <title>NRRL Nyheter</title>
+            <category>News</category>
+            <watchURL>http://www.nrrl.no/start/start00.htm</watchURL>
+            <linkURL>http://www.nrrl.no/</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>cf1740d885b94cfc6adc635d09ec1d83</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-04-23T08:13:47+00:00</iso-8601>
+                <date>Friday 23. April, 2004</date>
+                <time>08:13</time>
+                <unix>1082708027</unix>
+            </lastModified>
+        </page><page>
+            <title>LA6LI Listagruppen</title>
+            <category>Group</category>
+            <watchURL>http://www.qsl.net/la6li/main.htm</watchURL>
+            <linkURL>http://www.qsl.net/la6li/</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>e7fd65d710f63b9c3f8efb4b338a0ff3</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-04-05T19:54:03+00:00</iso-8601>
+                <date>Monday 05. April, 2004</date>
+                <time>19:54</time>
+                <unix>1081194843</unix>
+            </lastModified>
+        </page><page>
+            <title>LA8OKA</title>
+            <category>Personal</category>
+            <watchURL>http://www.arcticpeak.com/index.htm</watchURL>
+            <linkURL>http://www.arcticpeak.com/index.htm</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>9e76079fcfcb3bad3b64813a41824dd3</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-04-24T10:49:09+00:00</iso-8601>
+                <date>Saturday 24. April, 2004</date>
+                <time>10:49</time>
+                <unix>1082803749</unix>
+            </lastModified>
+        </page><page>
+            <title>LA8OKA (Radio)</title>
+            <category>Personal</category>
+            <watchURL>http://www.arcticpeak.com/radio.htm</watchURL>
+            <linkURL>http://www.arcticpeak.com/radio.htm</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>f0260b5aaf56ae58da4f864efd30c3b5</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-04-04T16:26:41+00:00</iso-8601>
+                <date>Sunday 04. April, 2004</date>
+                <time>16:26</time>
+                <unix>1081096001</unix>
+            </lastModified>
+        </page><page>
+            <title>APRS Norge</title>
+            <category>Misc</category>
+            <watchURL>http://aprs.dahltech.no/</watchURL>
+            <linkURL>http://aprs.dahltech.no/</linkURL>
+            <tresholdRatio>0.999</tresholdRatio>
+            <cacheFilename>1ca3a8f368196d73ca1e2a6350a8510b</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="false">
+                <iso-8601>2004-04-22T21:00:14+00:00</iso-8601>
+                <date>Thursday 22. April, 2004</date>
+                <time>21:00</time>
+                <unix>1082667614</unix>
+            </lastModified>
+        </page><page>
+            <title>Permo</title>
+            <category>Commercial</category>
+            <watchURL>http://www.permo.no/main.htm</watchURL>
+            <linkURL>http://www.permo.no/main.htm</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>e2a4f958bd476e89c90c3cba0070e12c</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-04-21T14:01:15+00:00</iso-8601>
+                <date>Wednesday 21. April, 2004</date>
+                <time>14:01</time>
+                <unix>1082556075</unix>
+            </lastModified>
+        </page><page>
+            <title>Permo (Auksjon)</title>
+            <category>Commercial</category>
+            <watchURL>http://www.permo.no/Auksjon.htm</watchURL>
+            <linkURL>http://www.permo.no/Auksjon.htm</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>78a7ff82354acbdd5fb012cb08ac7104</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-04-22T07:23:54+00:00</iso-8601>
+                <date>Thursday 22. April, 2004</date>
+                <time>07:23</time>
+                <unix>1082618634</unix>
+            </lastModified>
+        </page><page>
+            <title>Permo (Nyheter)</title>
+            <category>Commercial</category>
+            <watchURL>http://www.permo.no/A/Nyheter.htm</watchURL>
+            <linkURL>http://www.permo.no/A/Nyheter.htm</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>41a3287dfc9d175c02c3963e22cd3521</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-03-18T14:17:23+00:00</iso-8601>
+                <date>Thursday 18. March, 2004</date>
+                <time>14:17</time>
+                <unix>1079619443</unix>
+            </lastModified>
+        </page><page>
+            <title>AMSAT</title>
+            <category>News</category>
+            <watchURL>http://www.amsat.org/</watchURL>
+            <linkURL>http://www.amsat.org/</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>be6162deffac86812a92f77b1a1226b8</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-03-24T05:24:51+00:00</iso-8601>
+                <date>Wednesday 24. March, 2004</date>
+                <time>05:24</time>
+                <unix>1080105891</unix>
+            </lastModified>
+        </page><page>
+            <title>AMSAT What's New</title>
+            <category>News</category>
+            <watchURL>http://www.amsat.org/amsat/whatsnew.html</watchURL>
+            <linkURL>http://www.amsat.org/amsat/whatsnew.html</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>9f54a444ea857bb9ad85b476f6931d99</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-04-05T00:27:03+00:00</iso-8601>
+                <date>Monday 05. April, 2004</date>
+                <time>00:27</time>
+                <unix>1081124823</unix>
+            </lastModified>
+        </page><page>
+            <title>AMSAT WSR</title>
+            <category>News</category>
+            <watchURL>http://www.amsat.org/amsat/news/wsr.html</watchURL>
+            <linkURL>http://www.amsat.org/amsat/news/wsr.html</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>81de937de42ec03ca89cb57a73d058c3</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-04-14T15:07:06+00:00</iso-8601>
+                <date>Wednesday 14. April, 2004</date>
+                <time>15:07</time>
+                <unix>1081955226</unix>
+            </lastModified>
+        </page><page>
+            <title>LA8IMA</title>
+            <category>Personal</category>
+            <watchURL>http://www.rolvs.org/index2.php</watchURL>
+            <linkURL>http://www.rolvs.org/index2.php</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>c2d52fffbb66ffca77c0702238a0f805</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="false">
+                <iso-8601>2004-04-09T13:00:17+00:00</iso-8601>
+                <date>Friday 09. April, 2004</date>
+                <time>13:00</time>
+                <unix>1081515617</unix>
+            </lastModified>
+        </page><page>
+            <title>3B9C Rodrigues Island</title>
+            <category>DX/Contest</category>
+            <watchURL>http://www.fsdxa.com/3b9c/</watchURL>
+            <linkURL>http://www.fsdxa.com/3b9c/</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>779326e3b28f25f11aecaa3f3d126496</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="false">
+                <iso-8601>2004-04-16T21:00:21+00:00</iso-8601>
+                <date>Friday 16. April, 2004</date>
+                <time>21:00</time>
+                <unix>1082149221</unix>
+            </lastModified>
+        </page><page>
+            <title>T33C Banaba</title>
+            <category>DX/Contest</category>
+            <watchURL>http://www.dx-pedition.de/banaba2004/home.htm</watchURL>
+            <linkURL>http://www.dx-pedition.de/banaba2004/</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>700c366e424ecdb3d8d795b9651fe295</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-04-02T07:24:19+00:00</iso-8601>
+                <date>Friday 02. April, 2004</date>
+                <time>07:24</time>
+                <unix>1080890659</unix>
+            </lastModified>
+        </page><page>
+            <title>AMSAT OSCAR E</title>
+            <category>News</category>
+            <watchURL>http://www.amsat.org/amsat/sats/echo/index.html</watchURL>
+            <linkURL>http://www.amsat.org/amsat/sats/echo/index.html</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>5df732c92b4a170a987563bd771c9694</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-04-05T00:21:55+00:00</iso-8601>
+                <date>Monday 05. April, 2004</date>
+                <time>00:21</time>
+                <unix>1081124515</unix>
+            </lastModified>
+        </page><page>
+            <title>findU News</title>
+            <category>News</category>
+            <watchURL>http://www.findu.com/new.html</watchURL>
+            <linkURL>http://www.findu.com/new.html</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>434b0a9940ccd68ba7b0b8044fb644e2</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-02-14T20:29:18+00:00</iso-8601>
+                <date>Saturday 14. February, 2004</date>
+                <time>20:29</time>
+                <unix>1076790558</unix>
+            </lastModified>
+        </page><page>
+            <title>Solar Terrestrial Activity Report</title>
+            <category>Misc</category>
+            <watchURL>http://www.dxlc.com/solar/</watchURL>
+            <linkURL>http://www.dxlc.com/solar/</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>ef23a86938a7833fbf05fb6cd0c0ea7e</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-04-24T03:38:34+00:00</iso-8601>
+                <date>Saturday 24. April, 2004</date>
+                <time>03:38</time>
+                <unix>1082777914</unix>
+            </lastModified>
+        </page><page>
+            <title>W1AW Propagation Bulletins</title>
+            <category>Misc</category>
+            <watchURL>http://www.arrl.org/w1aw/prop/</watchURL>
+            <linkURL>http://www.arrl.org/w1aw/prop/</linkURL>
+            <tresholdRatio>0.99</tresholdRatio>
+            <cacheFilename>f6632a4f00b21af7aeb33d32f97f3e94</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="false">
+                <iso-8601>2004-04-24T00:00:41+00:00</iso-8601>
+                <date>Saturday 24. April, 2004</date>
+                <time>00:00</time>
+                <unix>1082764841</unix>
+            </lastModified>
+        </page><page>
+            <title>Contests this week</title>
+            <category>DX/Contest</category>
+            <watchURL>http://www.hornucopia.com/contestcal/weeklycont.php</watchURL>
+            <linkURL>http://www.hornucopia.com/contestcal/weeklycont.php</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>85ef1d29d395483d8968f5bf1e15fbb2</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="false">
+                <iso-8601>2004-04-21T15:00:25+00:00</iso-8601>
+                <date>Wednesday 21. April, 2004</date>
+                <time>15:00</time>
+                <unix>1082559625</unix>
+            </lastModified>
+        </page><page>
+            <title>LA9PMA</title>
+            <category>Personal</category>
+            <watchURL>http://la9pma.org/</watchURL>
+            <linkURL>http://la9pma.org/</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>cc4094242bf06597aa85383ef9027429</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-04-10T00:59:23+00:00</iso-8601>
+                <date>Saturday 10. April, 2004</date>
+                <time>00:59</time>
+                <unix>1081558763</unix>
+            </lastModified>
+        </page><page>
+            <title>LA5UNA</title>
+            <category>Personal</category>
+            <watchURL>http://www.qsl.net/la5una/hei_og_velkommen_til_min_hjemmes.htm</watchURL>
+            <linkURL>http://www.qsl.net/la5una/</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>2b54699ef562f329a9c79b0f5b79cb5b</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-04-08T14:43:00+00:00</iso-8601>
+                <date>Thursday 08. April, 2004</date>
+                <time>14:43</time>
+                <unix>1081435380</unix>
+            </lastModified>
+        </page><page>
+            <title>LA3YNA</title>
+            <category>Personal</category>
+            <watchURL>http://home.online.no/~arvjakob/index2.htm</watchURL>
+            <linkURL>http://www.la3yna.tk/</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>4a0579ef650c918a1542a79c925f645d</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-03-24T17:05:00+00:00</iso-8601>
+                <date>Wednesday 24. March, 2004</date>
+                <time>17:05</time>
+                <unix>1080147900</unix>
+            </lastModified>
+        </page><page>
+            <title>Norwegian Beacon List</title>
+            <category>Misc</category>
+            <watchURL>http://www.qsl.net/la0by/LA-beac.htm</watchURL>
+            <linkURL>http://www.qsl.net/la0by/LA-beac.htm</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>cc81f3d8f426d504aba7535254ca072f</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-04-12T23:09:20+00:00</iso-8601>
+                <date>Monday 12. April, 2004</date>
+                <time>23:09</time>
+                <unix>1081811360</unix>
+            </lastModified>
+        </page><page>
+            <title>LA3T Tromsøgruppen</title>
+            <category>Group</category>
+            <watchURL>http://www.hamradio.no/la3t/hovedside.htm</watchURL>
+            <linkURL>http://www.hamradio.no/la3t/</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>48b8ef93ebec559c29f569c86d13e7e7</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-04-02T17:26:07+00:00</iso-8601>
+                <date>Friday 02. April, 2004</date>
+                <time>17:26</time>
+                <unix>1080926767</unix>
+            </lastModified>
+        </page><page>
+            <title>LA4O Oslogruppen</title>
+            <category>Group</category>
+            <watchURL>http://www.qsl.net/la4o/</watchURL>
+            <linkURL>http://www.qsl.net/la4o/</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>b14b8fbd30000598c53e04beefe9bb92</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-04-21T21:38:05+00:00</iso-8601>
+                <date>Wednesday 21. April, 2004</date>
+                <time>21:38</time>
+                <unix>1082583485</unix>
+            </lastModified>
+        </page><page>
+            <title>LA3F Follogruppen</title>
+            <category>Group</category>
+            <watchURL>http://www.la3f.no/main.htm</watchURL>
+            <linkURL>http://www.la3f.no/</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>e1e1b77c7b6f98715333cc4c913afd4f</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-02-22T13:06:56+00:00</iso-8601>
+                <date>Sunday 22. February, 2004</date>
+                <time>13:06</time>
+                <unix>1077455216</unix>
+            </lastModified>
+        </page><page>
+            <title>LA5NCA</title>
+            <category>Personal</category>
+            <watchURL>http://www.laud.no/la6nca/</watchURL>
+            <linkURL>http://www.laud.no/la6nca/</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>32c38e72137d0a88e894cbd4778993c2</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-02-09T20:47:26+00:00</iso-8601>
+                <date>Monday 09. February, 2004</date>
+                <time>20:47</time>
+                <unix>1076359646</unix>
+            </lastModified>
+        </page><page>
+            <title>LA9UX</title>
+            <category>Personal</category>
+            <watchURL>http://www.qsl.net/la9ux/</watchURL>
+            <linkURL>http://www.qsl.net/la9ux/</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>f66adbbc0cb4fbc6e68618f6d2fd7a02</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2002-06-07T10:28:30+00:00</iso-8601>
+                <date>Friday 07. June, 2002</date>
+                <time>10:28</time>
+                <unix>1023445710</unix>
+            </lastModified>
+        </page><page>
+            <title>LAØFX</title>
+            <category>Personal</category>
+            <watchURL>http://www.qsl.net/la0fx/</watchURL>
+            <linkURL>http://www.qsl.net/la0fx/</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>6f12d47ba8f31dfdb05aa8af76c841aa</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-04-09T12:19:08+00:00</iso-8601>
+                <date>Friday 09. April, 2004</date>
+                <time>12:19</time>
+                <unix>1081513148</unix>
+            </lastModified>
+        </page><page>
+            <title>LAØFA</title>
+            <category>Personal</category>
+            <watchURL>http://www.qsl.net/la0fa/index.html</watchURL>
+            <linkURL>http://www.qsl.net/la0fa/index.html</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>260fca707d509285f9e383d42ec41fca</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2002-01-01T21:42:49+00:00</iso-8601>
+                <date>Tuesday 01. January, 2002</date>
+                <time>21:42</time>
+                <unix>1009921369</unix>
+            </lastModified>
+        </page><page>
+            <title>LAØFD</title>
+            <category>Personal</category>
+            <watchURL>http://www.qsl.net/la0fd/index.html</watchURL>
+            <linkURL>http://www.qsl.net/la0fd/index.html</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>32cc434ee0680f45516cf6dcb16c13c1</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2002-10-15T08:37:43+00:00</iso-8601>
+                <date>Tuesday 15. October, 2002</date>
+                <time>08:37</time>
+                <unix>1034671063</unix>
+            </lastModified>
+        </page><page>
+            <title>LAØHV</title>
+            <category>Personal</category>
+            <watchURL>http://www.qsl.net/la0hv/index.html</watchURL>
+            <linkURL>http://www.qsl.net/la0hv/index.html</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>1d9df6e2246606053684486fd19f4945</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-03-06T16:32:14+00:00</iso-8601>
+                <date>Saturday 06. March, 2004</date>
+                <time>16:32</time>
+                <unix>1078590734</unix>
+            </lastModified>
+        </page><page>
+            <title>LA1AEA</title>
+            <category>Personal</category>
+            <watchURL>http://www.qsl.net/la1aea/index.html</watchURL>
+            <linkURL>http://www.qsl.net/la1aea/index.html</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>67c0423ea99b24da1819ebbc227fddd8</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2001-11-18T20:32:40+00:00</iso-8601>
+                <date>Sunday 18. November, 2001</date>
+                <time>20:32</time>
+                <unix>1006115560</unix>
+            </lastModified>
+        </page><page>
+            <title>LA ARDF</title>
+            <category>Group</category>
+            <watchURL>http://www.ardf.no/</watchURL>
+            <linkURL>http://www.ardf.no/</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>db1260c0c1935ef7d308bb0b02d2c5dc</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-04-21T22:16:46+00:00</iso-8601>
+                <date>Wednesday 21. April, 2004</date>
+                <time>22:16</time>
+                <unix>1082585806</unix>
+            </lastModified>
+        </page><page>
+            <title>LA1CNA</title>
+            <category>Personal</category>
+            <watchURL>http://www.qsl.net/la1cna/index.html</watchURL>
+            <linkURL>http://www.qsl.net/la1cna/index.html</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>964839b739bde940c673df2f3dd4e981</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2003-12-27T17:54:48+00:00</iso-8601>
+                <date>Saturday 27. December, 2003</date>
+                <time>17:54</time>
+                <unix>1072547688</unix>
+            </lastModified>
+        </page><page>
+            <title>PACKET-radio nettet i Nord-Norge</title>
+            <category>Misc</category>
+            <watchURL>http://www.qsl.net/la1h/nodenett/hoyre.htm</watchURL>
+            <linkURL>http://www.qsl.net/la1h/nodenett/index.htm</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>3297d317e448a08c45d814eb158b9894</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-01-10T16:28:45+00:00</iso-8601>
+                <date>Saturday 10. January, 2004</date>
+                <time>16:28</time>
+                <unix>1073752125</unix>
+            </lastModified>
+        </page><page>
+            <title>LA1JAM</title>
+            <category>Group</category>
+            <watchURL>http://www.qsl.net/la1jam/index.htm</watchURL>
+            <linkURL>http://www.qsl.net/la1jam/index.htm</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>9b8e27f617e81c2d9280461a0e427320</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2003-10-16T15:13:50+00:00</iso-8601>
+                <date>Thursday 16. October, 2003</date>
+                <time>15:13</time>
+                <unix>1066317230</unix>
+            </lastModified>
+        </page><page>
+            <title>LA1KHA</title>
+            <category>Personal</category>
+            <watchURL>http://www.qsl.net/la1kha/index.html</watchURL>
+            <linkURL>http://www.qsl.net/la1kha/index.html</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>ea60154fab21a4938eab86544ded9d2c</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-01-17T18:52:07+00:00</iso-8601>
+                <date>Saturday 17. January, 2004</date>
+                <time>18:52</time>
+                <unix>1074365527</unix>
+            </lastModified>
+        </page><page>
+            <title>LA1KKA</title>
+            <category>Personal</category>
+            <watchURL>http://www.qsl.net/la1kka/index.html</watchURL>
+            <linkURL>http://www.qsl.net/la1kka/index.html</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>ef4ae2fb5d76c0815ab02bfe9f6a43c1</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2002-03-14T17:05:44+00:00</iso-8601>
+                <date>Thursday 14. March, 2002</date>
+                <time>17:05</time>
+                <unix>1016125544</unix>
+            </lastModified>
+        </page><page>
+            <title>VHF aktivitets-tester (NRAU NAC)</title>
+            <category>DX/Contest</category>
+            <watchURL>http://www.qsl.net/la1kka/vhf/index.html</watchURL>
+            <linkURL>http://www.qsl.net/la1kka/vhf/index.html</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>5f44262a30dd4644623754a539542109</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-03-03T04:21:25+00:00</iso-8601>
+                <date>Wednesday 03. March, 2004</date>
+                <time>04:21</time>
+                <unix>1078287685</unix>
+            </lastModified>
+        </page><page>
+            <title>LA1KP</title>
+            <category>Personal</category>
+            <watchURL>http://www.qsl.net/la1kp/index.html</watchURL>
+            <linkURL>http://www.qsl.net/la1kp/index.html</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>13e414a785fed11bbacd5ba795140bc4</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2002-04-27T19:09:39+00:00</iso-8601>
+                <date>Saturday 27. April, 2002</date>
+                <time>19:09</time>
+                <unix>1019934579</unix>
+            </lastModified>
+        </page><page>
+            <title>LA8D Sandnes og Jærengruppen</title>
+            <category>Group</category>
+            <watchURL>http://www.lug.no/la8d/main.php?LA8D=1</watchURL>
+            <linkURL>http://www.lug.no/la8d/</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>1bfe772a0d905c3324994aa08b4beeba</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-04-13T14:35:40+00:00</iso-8601>
+                <date>Tuesday 13. April, 2004</date>
+                <time>14:35</time>
+                <unix>1081866940</unix>
+            </lastModified>
+        </page><page>
+            <title>LA3ZA</title>
+            <category>Personal</category>
+            <watchURL>http://www.qsl.net/la3za/hoved.html</watchURL>
+            <linkURL>http://www.qsl.net/la3za/</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>b10251d1020bf311143a319e669e64d7</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-01-21T18:28:06+00:00</iso-8601>
+                <date>Wednesday 21. January, 2004</date>
+                <time>18:28</time>
+                <unix>1074709686</unix>
+            </lastModified>
+        </page><page>
+            <title>LA1NRK</title>
+            <category>Group</category>
+            <watchURL>http://home.eunet.no/~aosteren/index0.htm</watchURL>
+            <linkURL>http://home.eunet.no/~aosteren/index0.htm</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>0cab61b9456a8d47643394bc09484b9a</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-02-16T10:20:32+00:00</iso-8601>
+                <date>Monday 16. February, 2004</date>
+                <time>10:20</time>
+                <unix>1076926832</unix>
+            </lastModified>
+        </page><page>
+            <title>LA1NSF</title>
+            <category>Group</category>
+            <watchURL>http://www.qsl.net/la1nsf/index.htm</watchURL>
+            <linkURL>http://www.qsl.net/la1nsf/index.htm</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>f4b1afb4ae726fd5f259a4d9f49eda1c</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2000-04-27T07:40:01+00:00</iso-8601>
+                <date>Thursday 27. April, 2000</date>
+                <time>07:40</time>
+                <unix>956821201</unix>
+            </lastModified>
+        </page><page>
+            <title>LA1PHA</title>
+            <category>Personal</category>
+            <watchURL>http://www.qsl.net/la1pha/index.htm</watchURL>
+            <linkURL>http://www.qsl.net/la1pha/index.htm</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>13d1964105e857150b98fe83f8adea85</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2000-08-31T21:40:44+00:00</iso-8601>
+                <date>Thursday 31. August, 2000</date>
+                <time>21:40</time>
+                <unix>967758044</unix>
+            </lastModified>
+        </page><page>
+            <title>LA1PNA</title>
+            <category>Personal</category>
+            <watchURL>http://www.qsl.net/la1pna/index.htm</watchURL>
+            <linkURL>http://www.qsl.net/la1pna/index.htm</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>fa38c4838429fa1e49804ecb4b293da0</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-02-24T21:38:51+00:00</iso-8601>
+                <date>Tuesday 24. February, 2004</date>
+                <time>21:38</time>
+                <unix>1077658731</unix>
+            </lastModified>
+        </page><page>
+            <title>LA1SNA</title>
+            <category>Personal</category>
+            <watchURL>http://www.qsl.net/la1sna/right.html</watchURL>
+            <linkURL>http://www.qsl.net/la1sna/index.html</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>f58675e32150fe2873b19c3a514e10ee</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-01-13T16:23:21+00:00</iso-8601>
+                <date>Tuesday 13. January, 2004</date>
+                <time>16:23</time>
+                <unix>1074011001</unix>
+            </lastModified>
+        </page><page>
+            <title>LA1SS Nettverk for radiospeidere</title>
+            <category>Group</category>
+            <watchURL>http://www.qsl.net/la1ss/index.html</watchURL>
+            <linkURL>http://www.qsl.net/la1ss/index.html</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>19345a6ef201d377c0ec93d5307e3bea</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-02-07T11:32:12+00:00</iso-8601>
+                <date>Saturday 07. February, 2004</date>
+                <time>11:32</time>
+                <unix>1076153532</unix>
+            </lastModified>
+        </page><page>
+            <title>LA1TUR Radioklubben ut på tur</title>
+            <category>Group</category>
+            <watchURL>http://www.qsl.net/la1tur/index.html</watchURL>
+            <linkURL>http://www.qsl.net/la1tur/hoved.html</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>5a48f9b7c232badf9015310403fa81f6</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2002-10-04T16:44:13+00:00</iso-8601>
+                <date>Friday 04. October, 2002</date>
+                <time>16:44</time>
+                <unix>1033749853</unix>
+            </lastModified>
+        </page><page>
+            <title>LA1UW</title>
+            <category>Personal</category>
+            <watchURL>http://www.qsl.net/la1uw/index.html</watchURL>
+            <linkURL>http://www.qsl.net/la1uw/index.html</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>15fe3fe4c6030507f12739eba8908813</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2000-05-07T16:12:43+00:00</iso-8601>
+                <date>Sunday 07. May, 2000</date>
+                <time>16:12</time>
+                <unix>957715963</unix>
+            </lastModified>
+        </page><page>
+            <title>LA1VNA</title>
+            <category>Personal</category>
+            <watchURL>http://www.qsl.net/la1vna/index.htm</watchURL>
+            <linkURL>http://www.qsl.net/la1vna/index.htm</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>de82c37c0dc90cce8e77afa89b04728a</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-03-06T22:31:44+00:00</iso-8601>
+                <date>Saturday 06. March, 2004</date>
+                <time>22:31</time>
+                <unix>1078612304</unix>
+            </lastModified>
+        </page><page>
+            <title>LA1ONA</title>
+            <category>Personal</category>
+            <watchURL>http://www.qsl.net/la1ona/index.htm</watchURL>
+            <linkURL>http://www.qsl.net/la1ona/index.htm</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>95dc7d2c91d0db3136923c34cf92ee65</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-01-12T00:20:57+00:00</iso-8601>
+                <date>Monday 12. January, 2004</date>
+                <time>00:20</time>
+                <unix>1073866857</unix>
+            </lastModified>
+        </page><page>
+            <title>LA3FY</title>
+            <category>Personal</category>
+            <watchURL>http://k-j.skontorp.net/</watchURL>
+            <linkURL>http://k-j.skontorp.net/</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>921e1aa1638fcdcc6ffa95a55cd8f568</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2003-04-08T19:17:45+00:00</iso-8601>
+                <date>Tuesday 08. April, 2003</date>
+                <time>19:17</time>
+                <unix>1049829465</unix>
+            </lastModified>
+        </page><page>
+            <title>LA1B Bergensgruppen</title>
+            <category>Group</category>
+            <watchURL>http://www.qsl.net/la1b/frame1.htm</watchURL>
+            <linkURL>http://www.qsl.net/la1b/index.htm</linkURL>
+            <tresholdRatio>1.0</tresholdRatio>
+            <cacheFilename>4d164fc95524b4b9304aa65f45117024</cacheFilename>
+            <proxyStatus>MISS from home</proxyStatus>
+            <lastModified fromHeader="true">
+                <iso-8601>2004-04-09T20:48:50+00:00</iso-8601>
+                <date>Friday 09. April, 2004</date>
+                <time>20:48</time>
+                <unix>1081543730</unix>
+            </lastModified>
+        </page>
     </pages>
 
 </url-watcher>
